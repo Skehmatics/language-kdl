@@ -1,6 +1,6 @@
 {
   "name": "language-kdl",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "KDL language support for Atom",
   "keywords": [
     "language",
